@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "コドクシグナル",
+  "base_artist": "Need Cool Quality",
+  "createdAt": "2025-12-14T07:52:08.368896Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コドクシグナル",
+      "artist": "Need Cool Quality",
+      "has_synced": true,
+      "path": "select/01_コドクシグナル_Need_Cool_Quality.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コドクシグナル",
+      "artist": "Need Cool Quality",
+      "has_synced": true,
+      "path": "select/02_コドクシグナル_Need_Cool_Quality.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コドクシグナル",
+      "artist": "Need Cool Quality",
+      "has_synced": false,
+      "path": "select/pl_01_コドクシグナル_Need_Cool_Quality.txt"
+    }
+  ]
+}
